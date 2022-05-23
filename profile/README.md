@@ -1,4 +1,4 @@
-![VoltrixStudios_banner](https://user-images.githubusercontent.com/62163840/169730536-c229b4a2-974a-4913-becf-95d27b2f74eb.png)
+![VoltrixStudios_banner](https://user-images.githubusercontent.com/62163840/169730843-65b1ed72-9d6a-4ee4-8592-249fbb715860.png)
 
 ## Hey 👋, we're Voltrix
 Before anyone asks, yes, we're a bunch of geeks, but we prefer the term "passionate in our respective fields". Nevertheless, our team is full of passionate designers developers, and testers, but more importantly **people**. We collectivly share an idea that the term "good enough" isn't good enough, and can always be further improved and refined. We all share a goal of imagining something slightly **different**, **unique**, **new**, and **fresh** *(we know, roll credits)*. Essentially we create new and existing things, then constantly make improvements *(and fix bugs, lots of them)* 😩.
